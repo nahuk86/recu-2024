@@ -1,0 +1,9 @@
+C:\Users\nahue\source\repos\Recu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\nahue\source\repos\Recu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\Recu\DAL\bin\Debug\DAL.dll
+C:\Users\nahue\source\repos\Recu\DAL\bin\Debug\DAL.pdb
+C:\Users\nahue\source\repos\Recu\DAL\bin\Debug\Domain Model.dll
+C:\Users\nahue\source\repos\Recu\DAL\bin\Debug\Domain Model.pdb
+C:\Users\nahue\source\repos\Recu\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\nahue\source\repos\Recu\DAL\obj\Debug\DAL.dll
+C:\Users\nahue\source\repos\Recu\DAL\obj\Debug\DAL.pdb

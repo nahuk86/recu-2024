@@ -1,0 +1,14 @@
+C:\Users\nahue\source\repos\Recu\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\nahue\source\repos\Recu\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\Recu\UI\bin\Debug\UI.exe.config
+C:\Users\nahue\source\repos\Recu\UI\bin\Debug\UI.exe
+C:\Users\nahue\source\repos\Recu\UI\bin\Debug\UI.pdb
+C:\Users\nahue\source\repos\Recu\UI\bin\Debug\BLL.dll
+C:\Users\nahue\source\repos\Recu\UI\bin\Debug\DAL.dll
+C:\Users\nahue\source\repos\Recu\UI\bin\Debug\Domain Model.dll
+C:\Users\nahue\source\repos\Recu\UI\bin\Debug\BLL.pdb
+C:\Users\nahue\source\repos\Recu\UI\bin\Debug\DAL.pdb
+C:\Users\nahue\source\repos\Recu\UI\bin\Debug\Domain Model.pdb
+C:\Users\nahue\source\repos\Recu\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\nahue\source\repos\Recu\UI\obj\Debug\UI.exe
+C:\Users\nahue\source\repos\Recu\UI\obj\Debug\UI.pdb
